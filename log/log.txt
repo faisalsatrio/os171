@@ -1,0 +1,3 @@
+w00-170207-13-LR-About: Introduction to Operating System, From: Book-Guide to operating system
+w01-170214-13-LR-About: Scripting, From: Lecturer
+w01-170218-03-PS-About: Doing lab session
