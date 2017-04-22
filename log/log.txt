@@ -5,5 +5,9 @@ w02-170223-13-LR-About: Public Key, From: Lecturer
 w02-170225-02-PS-About: Doing lab session
 w03-170307-13-LR-About: variable, From: Lecturer
 w03-170310-02-PS-About: Doing lab session
-w03-170314-13-LR-About: Exercise, From: Lecturer
-w03-170318-02-PS-About: Doing lab session
+w04-170314-13-LR-About: Exercise, From: Lecturer
+w04-170318-02-PS-About: Doing lab session
+w06-170412-13-LR-About: Matter week06, From: Lecturer
+w06-170415-02-PS-About: Doing lab session
+w07-170420-13-LR-About: Matter week07, From: Lecturer
+w07-170422-02-PS-About: Doing lab session
