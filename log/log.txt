@@ -15,3 +15,7 @@ w07-170420-13-LR-About: Matter week07, From: Lecturer
 w07-170422-02-PS-About: Doing lab session
 w08-170425-13-LR-About: Matter week08, From: Lecturer
 w08-170425-02-PS-About: Doing lab session
+w09-170502-13-LR-About: File System, From: Lecturer
+w09-170504-13-LR-About: Disk Schedulling, From: Lecturer
+w10-170511-13-LR-About: Cloud Computing, From: Lecturer
+w10-170518-16 PS-About: Doing Lab Session, Making a blog
